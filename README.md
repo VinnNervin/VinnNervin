@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VinnNervin (charles) 
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning Backend Development and Machine Learning
+  - ⚡ Javascript
+  - 🐍 Python
